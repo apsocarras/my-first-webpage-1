@@ -1,0 +1,14 @@
+/* Style sheet for both my-first-webpage and favorite-places */
+
+body {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+p {
+  color: brown;
+}
